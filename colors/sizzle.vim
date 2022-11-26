@@ -60,3 +60,6 @@ hi link typescriptFuncCallArg PreProc
 hi link typescriptBlock Identifier
 hi link typescriptArrowFunc Identifier
 hi link typescriptBinaryOp Special
+
+" polar
+hi link polarSemicolon Special
